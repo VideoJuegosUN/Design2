@@ -24,49 +24,49 @@ Mateo Rojas
 
 Slide:
 
-<img height="545" width="968" src="fig/1.jpg"> 
+<img height="400" width="596"  src="fig/1.jpg"> 
 
 
 Slide:
 
-<img height="545" width="968" src="fig/2.jpg"> 
+<img height="400" width="596"  src="fig/2.jpg"> 
 
 Slide:
 
-<img height="545" width="968" src="fig/3.jpg"> 
+<img height="400" width="596"  src="fig/3.jpg"> 
 
 Slide:
 
-<img height="545" width="968" src="fig/4.jpg"> 
+<img height="400" width="596"  src="fig/4.jpg"> 
 
 Slide:
 
-<img height="545" width="968" src="fig/5.jpg"> 
+<img height="400" width="596"  src="fig/5.jpg"> 
 
 Slide:
 
-<img height="545" width="968" src="fig/6.jpg"> 
+<img height="400" width="596"  src="fig/6.jpg"> 
 
 Slide:
 
-<img height="545" width="968" src="fig/7.jpg"> 
+<img height="400" width="596"  src="fig/7.jpg"> 
 
 Slide:
 
-<img height="545" width="968" src="fig/8.jpg"> 
+<img height="400" width="596"  src="fig/8.jpg"> 
 
 Slide:
 
-<img height="545" width="968" src="fig/9.jpg"> 
+<img height="400" width="596"  src="fig/9.jpg"> 
 
 Slide:
 
-<img height="545" width="968" src="fig/10.jpg"> 
+<img height="400" width="596"  src="fig/10.jpg"> 
 
 Slide:
 
-<img height="545" width="968" src="fig/11.jpg"> 
+<img height="400" width="596"  src="fig/11.jpg"> 
 
 Slide:
 
-<img height="545" width="968" src="fig/12.jpg"> 
+<img height="400" width="596" src="fig/12.jpg"> 
