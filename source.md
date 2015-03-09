@@ -14,7 +14,7 @@
 	</p>
 </section>
 
-Slide:
+Slide:      
 
 # Video games design part 2
 
